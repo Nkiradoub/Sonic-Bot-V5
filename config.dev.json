@@ -16,13 +16,13 @@ le{
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100060550459214"],
+  "adminBot": ["100007783158805"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "✰ლNoëlლ✰",
+  "nickNameBot": "✰ლnkiradoudლ✰",
   "prefix": "€",
   "database": {
     "type": "sqlite",
